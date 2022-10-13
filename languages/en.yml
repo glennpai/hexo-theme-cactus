@@ -1,7 +1,7 @@
 nav:
   home: Home
   about: About
-  articles: Writing
+  articles: Blog
   tag: Tag
   category: Category
   projects: Projects
@@ -15,10 +15,10 @@ footer:
   copyright: Copyright
 
 index:
-  find_me_on: Find me on
+  find_me_on: Catch me on
   enum_comma: ','
   enum_and: and
-  articles: Writing
+  articles: Blog
   projects: Projects
   topics: Topics
   most_recent: Most recent
@@ -37,7 +37,7 @@ post:
 
 search:
   search: Search...
-  no_results: No results found.
+  no_results: No results found
 
 tag_cloud:
   zero: No tags
@@ -57,12 +57,12 @@ counter:
     other: ""
 
   archive_posts:
-    zero: No posts.
+    zero: No posts
     one: ""
     other: ""
 
 comments:
-  no_js: Please enable JavaScript to view the comments.
+  no_js: Please enable JavaScript to view the comments
 
 tooltip:
   copy_tip: Copy to clipboard!
