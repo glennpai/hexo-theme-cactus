@@ -96,7 +96,7 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/chi-icon.ico
+    url: /images/favicon.ico
     gravatar: false
   android:
     url: /images/chi-half.png
